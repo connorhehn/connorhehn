@@ -24,6 +24,6 @@ Here are a few of my favorite projects:
 - **[Review App](https://github.com/ConnorHehn/review-app)**: A React and Express app for logging and sharing reviews of movies, restaurants, and more.
 
 ## Get in Touch
-- 📫 [Email](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 [Email](mailto:connor.hehn@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/connor-hehn)
 
