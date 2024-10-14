@@ -6,9 +6,11 @@
 - 🎓 I have a software engineering degree and a passion for app development
 - 🏒 Big fan of the New York Islanders
 
+<!--
 ## What I’m Currently Working On
 - Developing a project management app with role-based permissions and integration with a machine learning model
 - Building a review app in React and Express, using MongoDB for data storage
+ -->
 
 ## My Tech Stack
 - **Languages:** Python, JavaScript, Java
@@ -27,3 +29,5 @@ Here are a few of my favorite projects:
 - 📫 [Email](mailto:connor.hehn@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/connor-hehn)
 
+- 🏅 **AWS Certified Cloud Practitioner**
+  [![AWS Badge](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Certified-F29100?logo=amazon&logoColor=white)](https://www.credly.com/badges/d2fedb6b-5ef0-405b-ab07-8975666cb69b/linked_in_profile)
