@@ -16,7 +16,7 @@
 - **Backend:** Node.js, Express, Spring Boot
 - **Database:** MongoDB, DynamoDB
 - **Cloud:** AWS (S3, ECS), Docker
-- **Tools:** Git, Figma, Selenium
+- **Tools:** Git, Github
 
 ## Projects
 Here are a few of my favorite projects:
