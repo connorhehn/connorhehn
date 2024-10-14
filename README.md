@@ -20,7 +20,7 @@
 
 ## Projects
 Here are a few of my favorite projects:
-- **[Project Management App](https://github.com/ConnorHehn/project-management-app)**: A React and Node.js app with role-based permissions and data visualizations.
+- **[Project Management App](https://github.com/ConnorHehn/ErgonPMT)**: A React and Node.js app with role-based permissions and data visualizations.
 - **[Review App](https://github.com/ConnorHehn/review-app)**: A React and Express app for logging and sharing reviews of movies, restaurants, and more.
 
 ## Get in Touch
