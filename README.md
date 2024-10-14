@@ -27,6 +27,3 @@ Here are a few of my favorite projects:
 - 📫 [Email](mailto:your-email@example.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black
-  ![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorHehn&show_icons=true&theme=default)
-
