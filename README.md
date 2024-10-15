@@ -29,5 +29,6 @@ Here are a few of my favorite projects:
 - 📫 [Email](mailto:connor.hehn@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/connor-hehn)
 
-- 🏅 **AWS Certified Cloud Practitioner**
-  [![AWS Badge](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Certified-F29100?logo=amazon&logoColor=white)](https://www.credly.com/badges/d2fedb6b-5ef0-405b-ab07-8975666cb69b/linked_in_profile)
+## Certifications
+- 🏅 **AWS Certified Cloud Practitioner**  
+  [![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-F29100?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/d2fedb6b-5ef0-405b-ab07-8975666cb69b/linked_in_profile)
