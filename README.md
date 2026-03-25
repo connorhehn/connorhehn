@@ -2,11 +2,6 @@
 
 Software engineer focused on AWS, backend development, and cloud platform engineering.
 
-I enjoy building:
-- serverless AWS tools and internal platform automation
-- backend APIs and cloud infrastructure
-- developer-focused tools that make cloud systems easier to understand and use
-
 ## Tech
 Python, Java, JavaScript, AWS, Spring Boot, FastAPI, React, DynamoDB, Docker
 
