@@ -6,6 +6,7 @@ Software engineer focused on AWS, backend development, and cloud platform engine
 Python, Java, JavaScript, AWS, Spring Boot, FastAPI, React, DynamoDB, Docker
 
 ## Featured Project
+- [NHL-Playoff-Path](https://github.com/connorhehn/NHL-Playoff-Path) — NHL Playoff Path simulator determines odds of making NHL playoffs based on game outcomes
 - [LambdaLayerExplorer](https://github.com/connorhehn/LambdaLayerExplorer) — explores AWS Lambda runtimes and layers to help developers understand available packages and environment details
 
 ## Links
